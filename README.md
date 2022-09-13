@@ -1,3 +1,3 @@
 # Portofolio-freecodecamp
-Here is my portofolio made with just using HTML and CSS for a freecodecamp project
+Here is a portofolio I made just using HTML and CSS for a freecodecamp project
 ===============================
